@@ -1,5 +1,7 @@
 # SMScape
 
+<img src="https://raw.githubusercontent.com/deenaariff/DFS.py/master/SMScape.png" alt="drawing" width="300px"/>
+
 A Flask Application designed to provide a chatbot service for natural disaster victims in the form of both preparational and post-disaster assitance.
 
 This application uses the Twilio API for SMS communication and represents the Chatbot Messaging Workflow as a Directed Graph Data Structure.
