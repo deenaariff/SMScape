@@ -1,6 +1,6 @@
 # SMScape
 
-<img src="https://raw.githubusercontent.com/deenaariff/DFS.py/master/SMScape.png" alt="drawing" width="300px"/>
+<img src="https://raw.githubusercontent.com/deenaariff/SMScape/master/SMScape.png" alt="drawing" width="300px"/>
 
 A Flask Application designed to provide a chatbot service for natural disaster victims in the form of both preparational and post-disaster assitance.
 
